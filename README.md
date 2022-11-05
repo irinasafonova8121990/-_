@@ -31,6 +31,8 @@ $\alpha, \Alpha, \beta, \Beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Ph
 ```
 $\sqrt`{9}$
 
+$\sqrt{\$16}$
+
 ## Таблицы
 
 *Пример (таблица с рыскрытием данных):*
