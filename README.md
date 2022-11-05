@@ -36,6 +36,8 @@ $\ 2^3 + k_n^3 = x$
 
 $\frac{9}{3}$
 
+$\^3/_7$
+
 ### Латинский алфавит
 $\ alpha, \ Alpha, \ beta, \ Beta, \ gamma, \ Gamma, \ pi, \ Pi, \ phi, \ varphi, \ mu, \ Phi$
 ### Логарифм
