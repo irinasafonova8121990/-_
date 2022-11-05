@@ -36,6 +36,6 @@ Python     | Нет     |
 ----------:| ------- |
 Javascript | Нет     |
 Python     | Нет     |
-  
-<details>
  SQL       | Нет     |
+    
+<details>
