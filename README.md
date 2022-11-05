@@ -58,6 +58,7 @@ $\frac{n!}{k!(n-k)!}$
 ### Сайты
 Документация по Markdown https://docs.github.com/ 
 
+ <!--Решить проблемы с сылками https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls -> 
 ### Ссылки на таски
 
 #1
