@@ -41,6 +41,7 @@ SQL       | Нет     |
 Javascript | Нет     |
 Python     | Нет     |
  SQL       | Нет     |
+  
  <!--Решить проблемы с таблицей--> 
   
 ## Цитаты  
@@ -51,3 +52,17 @@ Python     | Нет     |
 > данных.
   
 — IQBI (Сайт vc.ru)
+
+  <details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
+## Файлы
