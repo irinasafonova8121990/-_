@@ -30,7 +30,7 @@ $\ k_{n+1} = n^2 + k_n^2 - k_{n-1}$
 $\ 2^3 + k_n^3 = x$
 
 ### Латинский алфавит
-$\alpha, \Alpha, \beta, \Beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi$
+$\ alpha, \ Alpha, \ beta, \ Beta, \ gamma, \ Gamma, \ pi, \ Pi, \ phi, \ varphi, \ mu, \ Phi$
 ### Логарифм
 ```math
 \sqrt`{9}
@@ -41,7 +41,7 @@ $\sqrt{\$16}$
 
 ### Прочее
 
-$\12^{25}$
+$\ 12^{25}$
 
 ## Таблицы
 
